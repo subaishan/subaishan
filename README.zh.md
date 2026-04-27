@@ -10,7 +10,6 @@
 
 右侧是我的虚拟人物--小羽。
 
-
 - 我当前在做一些有意思的事情[Repositories](https://github.com/subaishan?tab=repositories)
   - 比如YOLO的一些部署方案[yolo-cocoon-detection](https://github.com/subaishan/yolo-cocoon-detection)，交互式AI知识图谱[AI-Knowledge-Graph](https://github.com/subaishan/AI-Knowledge-Graph)，使用Qt可视化的电流检测上位机(load-forecast-qt)(https://github.com/subaishan/load-forecast-qt)
 - 除了学习之外我还喜欢阅读、打游戏、睡觉。
@@ -20,19 +19,22 @@
 ### Languages
 
 <!-- github-stats:start -->
-<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=subaishan&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true&v=2" />
+<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=subaishan&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true" />
 <!-- github-stats:end -->
 
 <!-- languages:start -->
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="python" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" alt="c" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" alt="html" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="css" /></code>
+
 <!-- languages:end -->
 
 ### Frameworks and Tools
 
 <!-- tools:start -->
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/qt/qt.png" alt="qt" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png" alt="django" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/flask/flask.png" alt="flask" /></code>
@@ -40,17 +42,22 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="docker" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" alt="visual-studio-code" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" alt="linux" /></code>
+
 <!-- tools:end -->
 
 ### Interested
 
 <!-- interested:start -->
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/llm/llm.png" alt="llm" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png" alt="vue" /></code>
+
 <!-- interested:end -->
 
 > 如果你也像知道这个overview怎么生成的？  
 > 我写了一个脚本来自动生成他们，你可以看这里：[subaishan/subaishan](https://github.com/subaishan/subaishan)  
 > 这个是基于[YunYouJun/YunYouJun](https://github.com/YunYouJun/YunYouJun/tree/master/scripts)修改的python版本.
+
 ---
+
 你可以在侧边栏找到联系我的方式，关注我以发现更多有趣的事物。
